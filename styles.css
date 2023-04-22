@@ -39,14 +39,4 @@ input {
 	border: none;
 	border-bottom: 1px grey solid;
 }
-.postcard-footer {
-	display: inline-flex;
-	flex-grow: 0;
-	font-size: 15px;
-	font-weight: 500;
-	line-height: 18px;
-	border-radius: 16px;
-	height: 28px;
-	min-width: 50px;
-	padding: 0 16px;
-}
+
